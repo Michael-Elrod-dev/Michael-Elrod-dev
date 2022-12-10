@@ -1,16 +1,14 @@
-### Hi there 👋
+## About Me
+* I'm a Computer Science Major at Clemson University!
+* I love creating things! (especially things I can see with my eyes)
+* I'm a huge nerd for Video Games and Manga!
 
-<!--
-**Michael-Elrod-dev/Michael-Elrod-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects!
+* Video Game Engine
+* Tower Defense RPG
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills!
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,java,matlab)](https://skillicons.dev)
+### Programs
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,unity,blender,ae,ps,pr,wordpress)](https://skillicons.dev)
