@@ -1,14 +1,11 @@
 ## About Me
-* I'm a Computer Science Major at Clemson University!
-* I love creating things! (especially things I can see with my eyes)
-* I'm a huge nerd for Video Games and Manga!
+* I'm a Computer Science Major at Clemson University
+* My current passion is Game Development
+* I like spending my free time either learning about new techniques for creating game or playing them
+* I also have deep love and appreciation for animation 
 
-## Current Projects!
-* Video Game Engine
-* Tower Defense RPG
-
-## Skills!
+## Expertise
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,java,matlab)](https://skillicons.dev)
-### Programs
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,unity,blender,ae,ps,pr,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,lua)](https://skillicons.dev)
+### Software
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal,blender,)](https://skillicons.dev)
