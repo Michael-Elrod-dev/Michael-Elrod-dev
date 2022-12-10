@@ -5,8 +5,8 @@
 * I also have a deep love and appreciation for the art of animation
 * [Here is my website](https://www.google.com "My Website")
 
-## EXPERTISE
-### Languages
+## LANGUAGES
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,lua)](https://skillicons.dev)
-### SOFTWARE
+
+## SOFTWARE
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal,blender,)](https://skillicons.dev)
