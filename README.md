@@ -1,12 +1,12 @@
-## About Me
+## ABOUT ME
 * I'm a Computer Science Major at Clemson University
-* My current passion is Game Development
-* I like spending my free time either learning about new techniques for creating game or playing them
-* I also have deep love and appreciation for animation 
-### [I'm an inline-style link with title](https://www.google.com "My Website")
+* My current passion is Game Development but I have a wide range of interests in the tech industry
+* I like spending my free time learning about new programming techniques and practicing them on my personal projects
+* I also have a deep love and appreciation for the art of animation 
+### [HERE IS MY WEBSITE](https://www.google.com "My Website")
 
-## Expertise
+## EXPERTISE
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,lua)](https://skillicons.dev)
-### Software
+### SOFTWARE
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal,blender,)](https://skillicons.dev)
