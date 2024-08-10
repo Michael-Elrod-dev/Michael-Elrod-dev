@@ -7,4 +7,4 @@
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,lua,html,css,js)](https://skillicons.dev)
 
 ## TOOLS
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,flutter,figma,unity,unreal,blender,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,aws,docker,react,flutter,figma,selenium,firebase,)](https://skillicons.dev)
